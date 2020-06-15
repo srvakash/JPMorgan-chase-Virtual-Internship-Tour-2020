@@ -1,6 +1,6 @@
 From 76cc7c02771841fab50638c687b21543a1fd916a Mon Sep 17 00:00:00 2001
-From: souravs17031999 <souravs_1999@rediffmail.com>
-Date: Wed, 29 Apr 2020 16:35:43 +0530
+From: Akash Srivastav <akashsrivasatav647@gmail.com>
+Date: Mon, 15 June 2020 8:35:43 +0530
 Subject: [PATCH] create patch file
 
 ---
@@ -16,8 +16,8 @@ index 0000000..db5bd0d
 +++ b/0001-create-patch-file.patch
 @@ -0,0 +1,124 @@
 +From 9076a0423d0d0deabc80363de4978213607941b0 Mon Sep 17 00:00:00 2001
-+From: souravs17031999 <souravs_1999@rediffmail.com>
-+Date: Wed, 29 Apr 2020 16:07:59 +0530
++From: Akash Srivastav <akashsrivasatav647@gmail.com>
+Date: Mon, 15 June 2020 8:35:43 +0530
 +Subject: [PATCH] create patch file
 +
 +---
